@@ -80,6 +80,6 @@ Each dataset follows a consistent ML pipeline:
 
 ## 🙋‍♂️ Author Info
 
-**Name:** _[Your Name]_  
-**Batch ID:** _[Your Batch ID]_  
+**Name:** AMARENDER REDDY SUDIREDDY
+
 **Topic:** K-Means Clustering
