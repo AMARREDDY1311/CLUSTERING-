@@ -75,6 +75,6 @@ Each dataset follows this ML pipeline:
 
 ## 🙋‍♂️ Author Info
 
-**Name:** _[Your Name]_  
-**Batch ID:** _[Your Batch ID]_  
+**Name:** AMARENDER REDDY SUDIREDDY 
+
 **Topic:** Clustering - K-Means & Hierarchical
